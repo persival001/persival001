@@ -14,13 +14,13 @@ Take a look at my projects to get an overview of my work and progress.
 Welcome to my world of Android development, where curiosity meets creativity and technology.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 
 [My LinkedIn](www.linkedin.com/in/jérémy-b-935188218)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=6" />

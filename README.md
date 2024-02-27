@@ -18,7 +18,7 @@ Welcome to my world of Android development, where curiosity meets creativity and
 <p align="center">
 
 [My LinkedIn](www.linkedin.com/in/jérémy-b-935188218)
-
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

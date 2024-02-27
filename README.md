@@ -16,7 +16,9 @@ Welcome to my world of Android development, where curiosity meets creativity and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+
+[Mon LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-b-935188218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

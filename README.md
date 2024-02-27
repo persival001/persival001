@@ -16,9 +16,7 @@ Welcome to my world of Android development, where curiosity meets creativity and
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/jérémy-b-935188218">My LinkedIn</a>
-  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

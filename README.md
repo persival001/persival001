@@ -2,7 +2,16 @@
 <h3 align="center">A passionate developer from France</h3>
 
 
-- 🌱 I’m currently learning **Android Studio and Java / Kotlin** with OpenClassrooms
+I am passionate about Android mobile application development, specializing in the use of Kotlin and Java. 
+Using a structured MVVM approach, I design efficient and maintainable applications. 
+Recently, I embarked on the Compose adventure to enrich my skills in UI/UX development, leading to the creation of several personal projects. 
+These initiatives allowed me to refine my mastery of Compose and explore new ways to create intuitive and responsive user interfaces.
+
+My journey is marked by a constant quest for improvement and innovation, where I apply best development practices and the latest technologies to deliver exceptional user experiences. 
+I'm always looking for new challenges and opportunities to push the limits of what I can create with Android. 
+Take a look at my projects to get an overview of my work and progress.
+
+Welcome to my world of Android development, where curiosity meets creativity and technology.
 
 
 <h3 align="left">Connect with me:</h3>

@@ -19,10 +19,6 @@ Welcome to my world of Android development, where curiosity meets creativity and
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=6)](https://skillicons.dev)
 
 ![Persival Stats](https://github-readme-stats.vercel.app/api?username=persival001&show_icons=true&theme=graywhite)

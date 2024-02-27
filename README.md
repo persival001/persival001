@@ -11,8 +11,8 @@
 <p align="center">Welcome to my world of Android development, where curiosity meets creativity and technology.</p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><br>
-  <a href="https://www.linkedin.com/in/jérémy-b-935188218">My LinkedIn</a><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jérémy-b-935188218">My LinkedIn</a><br><br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -20,7 +20,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=6" />
   </a>
-</p><br>
+</p><br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=persival001&show_icons=true&theme=graywhite" alt="Persival Stats">

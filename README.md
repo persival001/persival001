@@ -26,4 +26,8 @@ Welcome to my world of Android development, where curiosity meets creativity and
   </a>
 </p><br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=persival001&show_icons=true&theme=graywhite" alt="Persival Stats">
+</p>
+
 ![Persival Stats](https://github-readme-stats.vercel.app/api?username=persival001&show_icons=true&theme=graywhite)

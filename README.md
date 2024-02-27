@@ -18,6 +18,11 @@ Welcome to my world of Android development, where curiosity meets creativity and
 <p align="left">
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,compose,git,linux,photoshop,illustrator" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

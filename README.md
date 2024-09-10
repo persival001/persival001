@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jérémy</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">Crafting Android experiences with Kotlin and Compose, driven by curiosity and innovation</h3>
 
 <p align="center">I'm a dedicated Android developer from France, passionate about creating mobile applications using Kotlin and Java.</p>
 <p align="center">I have experience working with the MVVM architecture, focusing on building maintainable and efficient apps.</p>

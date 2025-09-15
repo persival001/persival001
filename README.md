@@ -24,7 +24,7 @@ Every project is an opportunity to learn, grow, and share software that makes a 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jérémy-b-935188218">LinkedIn</a> • 
-  <a href="https://play.google.com/store/apps/dev?id=6765781431134911090">Play Store Profile</a>
+  <a href="https://play.google.com/store/apps/developer?id=J%C3%A9r%C3%A9my%20BEKAERT">Play Store Profile</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

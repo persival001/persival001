@@ -32,7 +32,7 @@ I'm also exploring the future of Android UI with <b>Jetpack Compose</b>, buildin
 </p>
 
 <p align="center">
-  <i>Screenshots of ManageMyTime (add here for visual impact):</i><br/>
+  <i>Screenshots of ManageMyTime :</i><br/>
   <img src="assets/screenshot1.png" width="200"/>
   <img src="assets/screenshot2.png" width="200"/>
   <img src="assets/screenshot3.png" width="200"/>

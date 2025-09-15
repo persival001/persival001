@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Jérémy</h1>
-<h3 align="center">Crafting Android experiences with Kotlin and Compose, driven by curiosity and innovation</h3>
+<h3 align="center">Founder of PersivalSoft — Crafting Android apps for the world</h3>
 
-<p align="center">I'm a dedicated Android developer from France, passionate about creating mobile applications using Kotlin and Java.</p>
-<p align="center">I have experience working with the MVVM architecture, focusing on building maintainable and efficient apps.</p>
-<p align="center">Recently, I've been expanding my skills with Jetpack Compose, which has allowed me to explore new ways of developing intuitive and responsive user interfaces.</p>
-<p align="center">I'm continuously learning and refining my techniques to improve the quality of the apps I develop.</p>
-<p align="center">While I'm still growing in the field, I'm eager to take on new challenges and keep improving.</p>
-<p align="center">Feel free to explore my projects to see the progress I've made and the work I'm passionate about.</p>
+<p align="center">
+I'm an independent Android developer from France, running my own microenterprise <b>PersivalSoft</b>.  
+My focus: creating and publishing mobile apps directly to the Google Play Store, turning ideas into tools people actually use.
+</p>
+
+<p align="center">
+With solid expertise in <b>Kotlin</b> and <b>Java</b>, I design applications using modern architectures like <b>MVVM</b> for maintainability and scalability.  
+I'm also exploring the future of Android UI with <b>Jetpack Compose</b>, building smooth, intuitive, and responsive interfaces.
+</p>
+
+<p align="center">
+One of my published apps, <b>ManageMyTime</b>, is available on the Play Store and has already been downloaded in several countries.  
+Every project is an opportunity to learn, grow, and share software that makes a difference.
+</p>
+
+<h3 align="center">Featured App:</h3>
+<p align="center">
+  📱 <a href="https://play.google.com/store/apps/details?id=com.persival.managemytime">ManageMyTime on Google Play</a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jérémy-b-935188218">My LinkedIn</a><br><br>
+  <a href="https://www.linkedin.com/in/jérémy-b-935188218">LinkedIn</a> • 
+  <a href="https://play.google.com/store/apps/dev?id=6765781431134911090">Play Store Profile</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"><br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=6" />
   </a>
-</p><br><br>
+</p><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=persival001&show_icons=true&theme=graywhite" alt="Persival Stats">

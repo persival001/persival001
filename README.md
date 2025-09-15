@@ -28,11 +28,9 @@ Each release is an experiment in product, UX, and velocity — shipped, measured
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,compose,gradle,firebase,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=7" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,postman,firebase,stackoverflow,github,linux,apple,windows,sketchup,photoshop,illustrator&perline=7" />
   </a>
 </p>
-
----
 
 <p align="center"><i>PersivalSoft — building simple, useful apps with care and creativity.</i></p>
 

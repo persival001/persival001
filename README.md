@@ -2,8 +2,9 @@
 <h3 align="center">Android Developer — Kotlin · Jetpack Compose</h3>
 
 <p align="center">
-Android developer from France. By day I build and maintain the field apps of an industrial
-company — barcode scanning, production tracking, inventory, real-time ERP sync.
+Android developer from France. By day I'm the sole mobile developer of an industrial company,
+where I migrated the field apps from WinDev Mobile to native Kotlin — barcode scanning,
+production tracking, inventory, real-time ERP sync.
 By night I run <b>PersivalSoft</b>, where I design, build and publish my own apps on Google Play.
 </p>
 
@@ -65,7 +66,7 @@ Four native Android apps — Kotlin, Compose, Room, Material 3, <b>100% offline<
 
 <h3 align="center">🤝 Connect</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jérémy-b-935188218">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/jeremy-bekaert-android">LinkedIn</a> •
 <a href="https://play.google.com/store/apps/developer?id=J%C3%A9r%C3%A9my%20BEKAERT">Google Play developer page</a>
 </p>
 
